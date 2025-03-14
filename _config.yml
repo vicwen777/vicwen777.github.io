@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Vic Wen / a cool Chinese boy"
+title                    : "Vic Wen / A Cool Chinese Boy"
 title_separator          : "-"
 name                     : &name "Vic Wen"
 description              : &description "a cool Chinese boy"
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : # "https://orcid.org/0009-0001-0060-9970"
+  orcid            : https://orcid.org/0009-0001-0060-9970
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
