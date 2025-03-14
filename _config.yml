@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Vic Wen / a cool Chinese boy"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Vic Wen"
+description              : &description "a cool Chinese boy"
 url                      : https://vicwen777.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -28,7 +28,7 @@ author:
   bio              : "A tech boy, but also very sweet and cute😊"
   location         : "China"
   employer         : "South China University of Technology (SCUT)"
-  uri              : https://vicwen777.github.io/
+  uri              : https://github.com/vicwen777
   email            : "3047434701@qq.com" 
 
   # Academic websites
