@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vic Wen, a cool Chinese boy"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
