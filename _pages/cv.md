@@ -21,7 +21,7 @@ Education
  * • Courses: French, Information Theory
  * • Grades: XX
 
-Work experience
+Work Experience
 ======
   * Research Assistant 
   * Wireless Acoustic Radio Cooperative Communications and Application Laboratory, SCUT, Guangzhou, China, Mar.2025-
@@ -55,6 +55,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * Currently signed in to 43 different slack teams
