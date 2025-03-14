@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* South China University of Technology (SCUT)                                             * Guangzhou, China
-* Major: Information Engineering, Bachelor of Engineering (Beng)                                 * Sep.2023-
-* Minor: Computer Science & Technology                                                           * Sep.2024-
-* • Overall GPA: 3.61/4.0   	
-*
-*
+ South China University of Technology (SCUT)                                             Guangzhou, China
+ Major: Information Engineering, Bachelor of Engineering (Beng)                                 Sep.2023-
+ Minor: Computer Science & Technology                                                           Sep.2024-
+ • Overall GPA: 3.61/4.0   	
+
+
 * École Polytechnique de l’Université de Nantes (Polytech Nantes)                        * Nantes, France
 * Summer Visiting Student Program (non-degree program)                                   * July.2025(2 weeks)
 * • Courses: French, Information Theory
