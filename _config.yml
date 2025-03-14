@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Vic Wen / A Cool Chinese Boy"
+title                    : "Vic Wen"
 title_separator          : "-"
 name                     : &name "Vic Wen"
-description              : &description "a cool Chinese boy"
+description              : &description "A Cool Chinese Boy"
 url                      : https://vicwen777.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
