@@ -11,27 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* South China University of Technology (SCUT)                                         Guangzhou, China
+* Major: Information Engineering, Bachelor of Engineering (Beng)                              Sep.2023-
+* Minor: Computer Science & Technology                                                        Sep.2024-
+* • Overall GPA: 3.61/4.0   	
+
+* École Polytechnique de l’Université de Nantes (Polytech Nantes)                           Nantes, France
+* Summer Visiting Student Program (non-degree program)                                   July.2025(2 weeks)
+* • Courses: French, Information Theory
+* • Grades: XX
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Research Assistant 
+  * Wireless Acoustic Radio Cooperative Communications and Application Laboratory, SCUT    Guangzhou, China
+                                                                                                  Mar.2025-
+  * Supervisor: Prof. Jun Zhang (School of Electronic and Information Engineering, SCUT)	
+  * •	Conducted systematic literature reviews across databases, Processed data through coding
+  * •	Identified vulnerabilities through stress testing, Proposed design optimizations
+  * •	Delivered milestones via agile workflows, Coordinated with the group members in the project
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
@@ -43,9 +42,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ 
   
 Talks
 ======
