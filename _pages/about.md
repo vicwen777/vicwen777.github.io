@@ -40,5 +40,7 @@ Example: editing a markdown file for a talk
 How To Contact Me?
 ------
 I have many social media accounts, some of them are more frequently used for me, some are not. The social media I use for the most frequently is [Instagram](https://www.instagram.com/vicwen777?igsh=MXRvOHU5cWk2bm81eg==), then WhatsApp/Telegram(Add my number: +86 13415363017) and [Snapchat](https://www.snapchat.com/add/vicwen2024?share_id=cJOi-vDonW0&locale=en-US).
+
 Also, I have following social media accounts:
+
 [TikTok](https://www.tiktok.com/@vicwen777?_t=ZT-8ucojRmwPZy&_r=1), [Facebook](https://www.facebook.com/profile.php?id=61550036669229&mibextid=ZbWKwL), [Quora](https://www.quora.com/profile/%E6%96%AF%E5%A4%A7%E6%9E%97-%E6%AF%94%E5%88%A9?ch=18&oid=2931627145&share=e94b144c&srid=5rPsM4&target_type=user), [Reddit](https://www.reddit.com/u/Vivid-Key-5041/s/GExwFeBg5C), [Discord](https://discord.gg/VQwdkBKN), [Spotify](https://open.spotify.com/user/316536duuammdgdbtonzbp5osyey?si=dWjydbjaQUuypyABmY4-Ow). Although I don't use them frequently.
