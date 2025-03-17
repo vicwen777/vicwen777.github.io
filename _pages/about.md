@@ -15,7 +15,7 @@ This is a personal website I made based on a template on GitHub Community😊, a
 
 A Guide of My Website
 ======
-For a simple guide, my personal website consists of a few components, for example, publications, talks, posts, teaching, or pages. For example, here is my [Publications](https://vicwen777.github.io/publications/),my [Talks](https://vicwen777.github.io/talks), my [Blogs](https://vicwen777.github.io/year-archive/), my [CV](https://vicwen777.github.io/cv/), and my [talk map ](https://vicwen777.github.io/talkmap.html) 
+For a simple guide, my personal website consists of a few components, for example, publications, talks, posts, teaching, or pages. For example, here is my [Publications]📑(https://vicwen777.github.io/publications/), my [Talks]🗂️(https://vicwen777.github.io/talks), my [Blogs]🤳(https://vicwen777.github.io/year-archive/), my [CV]🪪(https://vicwen777.github.io/cv/), and my [Talk Map]🗺️(https://vicwen777.github.io/talkmap.html) 
 
 How to edit your site's GitHub repository
 ------
