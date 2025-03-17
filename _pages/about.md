@@ -17,15 +17,15 @@ A Guide of My Website
 ======
 For a simple guide, my personal website consists of a few components, including publications, talks, posts, teaching, or pages. For example, here is my 📑[Publications](https://vicwen777.github.io/publications/), my 🗂️[Talks](https://vicwen777.github.io/talks), my 🤳[Blogs](https://vicwen777.github.io/year-archive/), my 🪪[CV](https://vicwen777.github.io/cv/), and my 🗺️[Talk Map](https://vicwen777.github.io/talkmap.html) 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Personal Highlight
+======
+Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[eg1](/images/editing-talk.png)
 
 How To Contact Me?
-------
+======
 I have many social media accounts, some of them are more frequently used for me, some are not. The social media I use for the most frequently is [Instagram](https://www.instagram.com/vicwen777?igsh=MXRvOHU5cWk2bm81eg==), then WhatsApp/Telegram(Add my number: +86 13415363017) and [Snapchat](https://www.snapchat.com/add/vicwen2024?share_id=cJOi-vDonW0&locale=en-US).
 
 Also, I have following social media accounts:
