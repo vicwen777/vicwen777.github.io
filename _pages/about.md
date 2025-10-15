@@ -26,7 +26,7 @@ Example: editing a markdown file for a talk
 
 How To Contact Me?
 ======
-I have many social media accounts, some of them are more frequently used for me, some are not. The social media I use for the most frequently is [Instagram](https://www.instagram.com/vicwen777?igsh=MXRvOHU5cWk2bm81eg==)![ins](images/icons8-instagram-48.png), then WhatsApp![whatsapp](/images/icons8-whatsapp-48.png)/Telegram and [Snapchat](https://www.snapchat.com/add/vicwen2024?share_id=cJOi-vDonW0&locale=en-US).
+I have many social media accounts, some of them are more frequently used for me, some are not. The social media I use for the most frequently is [Instagram](https://www.instagram.com/vicwen777?igsh=MXRvOHU5cWk2bm81eg==)![ins](images/icons8-instagram-48.png), then WhatsApp![whatsapp](/images/icons8-whatsapp-48.png) and [Snapchat](https://www.snapchat.com/add/vicwen2024?share_id=cJOi-vDonW0&locale=en-US)![snapchat](images/icons8-snapchat带圈徽标-48.png).
 
 Also, I have following social media accounts:
 
